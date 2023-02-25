@@ -21,9 +21,9 @@ A microservices architecture, also simply known as microservices, is an architec
 ![Microservice  Archi](https://github.com/devstark-it/aws-bootcamp-cruddur-2023/blob/main/journal/Assets/Microservice%20architecture%402x%20(1).png)
 
 
-- **Iron Triangle** -
+- **Iron Triangle** - Project managers work within three project constraints: budget, scope and schedule. Depending on the project or who is involved, each of these project constraints could be the most important to the end-user. Quality resides in the middle of the project triangle, and effective project managers must balance the ebb and flow of tradeoffs within these three constraints in order to achieve success. This longstanding model provides a dynamic way to approach priorities on a project and supports describing items of value in a project team
 
-- **TOGAF** -
+- **TOGAF** - TOGAF helps businesses align IT goals with overall business goals, while helping to organize cross-departmental IT efforts. The TOGAF framework is broken into two main groups, which include the TOGAF fundamental content and extended guidance. The fundamental content includes all the essentials and best practices of TOGAF that create the foundation for the framework. The extended guidance portion of TOGAF includes guidance for specific topics such as agile methods, business architecture, data and information architecture, and security architecture. The extended guidance portion of TOGAF is expected to evolve over time as more best practices are established, whereas the fundamental content offers a basic starting point for anyone looking to apply the framework.
 
 </details>
 
